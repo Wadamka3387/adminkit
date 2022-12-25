@@ -1,0 +1,7 @@
+name: Kit
+version: '1.0-SNAPSHOT'
+main: me.wadamka.kit.Kit
+api-version: 1.19
+commands:
+  adminkit:
+    permission: adminkit

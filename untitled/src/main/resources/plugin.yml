@@ -1,0 +1,7 @@
+name: Kit
+version: '${project.version}'
+main: me.wadamka.kit.Kit
+api-version: 1.19
+commands:
+  adminkit:
+    permission: adminkit
